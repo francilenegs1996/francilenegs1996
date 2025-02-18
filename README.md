@@ -1,6 +1,6 @@
 # 🌟 Francilene Pinheiro
 
-Bem-vindo(a) ao meu repositório especial! Aqui você encontra mais informações sobre mim e meus projetos🚀
+Bem-vindo(a)! Aqui você encontra mais informações sobre mim e meus projetos🚀
 
 ## 🏆 Sobre mim
 
