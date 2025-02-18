@@ -4,7 +4,7 @@ Bem-vindo(a)! Aqui você encontra mais informações sobre mim🚀
 
 ## 🏆 Sobre mim
 
-Sou Francilene, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **UX e Front-End**. Com formação técnica em **Design** e experiência em design visual, UX e desenvolvimento low-code, crio soluções que unem pesquisa, design e código. 
+Sou Francilene, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **UX e Front-End**. Crio soluções que unem pesquisa, design e código. 
 
 ## 📊 GitHub Stats
 
