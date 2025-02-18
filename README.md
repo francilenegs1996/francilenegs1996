@@ -1,10 +1,16 @@
 # 🌟 Francilene Pinheiro
 
-Bem-vindo(a)! Aqui você encontra mais informações sobre mim e meus projetos🚀
+Bem-vindo(a)! Aqui você encontra mais informações sobre mim🚀
 
 ## 🏆 Sobre mim
 
 Sou Francilene, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **UX e Front-End**. Com formação técnica em **Design** e experiência em design visual, UX e desenvolvimento low-code, crio soluções que unem pesquisa, design e código. 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula)
+
 
 ## 💻 Tecnologias e Frameworks
 
@@ -41,12 +47,6 @@ Em constante evolução, busco novos conhecimentos e desafios para consolidar mi
 - ⚛️ React | TypeScript | JavaScript
 - 🚀 Desenvolvimento Low-Code
 - 📊 Kanban | Scrum | Double Diamond
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula)
-
 
 
 ## 🌐 Redes Sociais
