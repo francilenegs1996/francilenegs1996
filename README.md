@@ -51,10 +51,11 @@ Em constante evolução, busco novos conhecimentos e desafios para consolidar mi
 
 ## 🌐 Redes Sociais
 
-[![WhatsApp](https://api.whatsapp.com/send?phone=557981434561)](https://api.whatsapp.com/send?phone=557981434561)  
-[![LinkedIn](https://www.linkedin.com/in/francilenepinheiro/)](https://www.linkedin.com/in/francilenepinheiro/)  
-[![Instagram](https://www.instagram.com/uxui.fran/)](https://www.instagram.com/uxui.fran/)  
-[![Behance](https://www.behance.net/francilenedesigner)](https://www.behance.net/francilenedesigner)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384E1F4?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=557981434561)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francilenepinheiro/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uxui.fran/)  
+[![Behance](https://img.shields.io/badge/Behance-%23191919?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/francilenedesigner)
+
 
 ## 📬 Contato
 
