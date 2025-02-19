@@ -61,6 +61,4 @@ Em constante evolução, busco novos conhecimentos e desafios para consolidar mi
 
 Se quiser bater um papo ou trocar ideias, entre em contato comigo pelo meu WhatsApp: **https://api.whatsapp.com/send?phone=557981434561**
 
----
-📌 *Este repositório foi criado para compartilhar um pouco mais sobre minha trajetória e experiências no mundo da tecnologia.*
-📌 *Este repositório foi criado para compartilhar um pouco mais sobre minha trajetória e experiências no mundo da tecnologia.*
+
