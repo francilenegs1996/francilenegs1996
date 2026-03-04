@@ -1,6 +1,12 @@
-# 🌟 Francilene Pinheiro
+# 👩🏻‍💻 Francilene Pinheiro  
 
-Bem-vindo(a)! Aqui você encontra mais informações sobre mim🚀
+<p align="center">
+  <b>UX & Conversational Designer | Arquitetura de Fluxos | E as vezes brinco com React.ts)</b>
+</p>
+
+<p align="center">
+  Além do UX, aprimorando minhas skills!
+</p>
 
 ## 🏆 Sobre mim
 
