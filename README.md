@@ -8,13 +8,8 @@ Sou Francilene, estudante de **Análise e Desenvolvimento de Sistemas** e apaixo
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"/>
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula)
 
 
 ## 💻 Tecnologias e Frameworks
