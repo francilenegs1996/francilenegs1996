@@ -28,12 +28,15 @@ Estou em constante evolução, buscando projetos que conectem **negócio, tecnol
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
+    height="170"
   />
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula&langs_count=6" 
-    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula&hide_border=true"
+    height="170"
   />
 </p>
 
