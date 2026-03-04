@@ -26,19 +26,10 @@ Estou em constante evolução, buscando projetos que conectem **negócio, tecnol
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula&hide_border=true"
-    height="165"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula&hide_border=true"
-    height="165"
-  />
-</p>
+
 
 ---
 
