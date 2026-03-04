@@ -1,64 +1,98 @@
-# 🌟 Francilene Pinheiro
+# 👩🏻‍💻 Francilene Pinheiro
 
-Bem-vindo(a)! Aqui você encontra mais informações sobre mim🚀
+<p align="center">
+  <b>UX Designer e as vezes brinco de front-end</b>
+</p>
 
-## 🏆 Sobre mim
+<p align="center">
+  Além do UX, aprimorando minhas skills!
+</p>
 
-Sou Francilene, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **UX e Front-End**. Crio soluções que unem pesquisa, design e código. 
+---
+
+## ✨ Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX**.
+
+Gosto de unir:
+- 🔎 Pesquisa e análise
+- 🎨 Interface e experiência
+- 💻 Código limpo e funcional
+- 📊 Estratégia orientada a dados
+
+Estou em constante evolução, buscando projetos que conectem **negócio, tecnologia e experiência do usuário**.
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+    height="170em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula&langs_count=6" 
+    height="170em"
+  />
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Front-End
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge)
+
+---
+
+### 🎨 UX & Produto
+- UX/UI Design  
+- Design Thinking  
+- Double Diamond  
+- Mobile First  
+- Arquitetura da Informação  
+- Pesquisa com Usuários  
+
+---
+
+### ⚙️ Metodologias Ágeis
+- Kanban  
+- Scrum  
 
 
-## 💻 Tecnologias e Frameworks
+---
 
-Tenho domínio nas seguintes tecnologias e ferramentas:
+## 🌐 Conecte-se comigo
 
-[![Git](https://img.shields.io/badge/Git-%23F14E32?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Styled Components](https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-%231572B6?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![CSS](https://img.shields.io/badge/CSS-%23333333?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://img.shields.io/badge/HTML-%23F7B731?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<p align="left">
+<a href="https://www.linkedin.com/in/francilenepinheiro/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.behance.net/francilenedesigner">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/uxui.fran/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://api.whatsapp.com/send?phone=557981434561">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
 
+---
 
-Além disso, tenho noções gerais em frameworks ágeis como:
+## 📩 Contato
 
-[![Kanban](https://img.shields.io/badge/Kanban-%23FFB347?style=for-the-badge&logo=trello&logoColor=white)](https://www.atlassian.com/software/trello)
-[![Scrum](https://img.shields.io/badge/Scrum-%230E76A8?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
-[![Double Diamond](https://img.shields.io/badge/Double%20Diamond-%235E2A84?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
+📱 WhatsApp:  
+https://api.whatsapp.com/send?phone=557981434561
 
-
-Em constante evolução, busco novos conhecimentos e desafios para consolidar minha trajetória profissional.
-
-
-## 💼 Habilidades
-
-- 🎨 UX/UI Design
-- 💻 Front-end Development
-- 🖌️ Design Thinking
-- 📱 Mobile-Design
-- ⚛️ React | TypeScript | JavaScript
-- 🚀 Desenvolvimento Low-Code
-- 📊 Kanban | Scrum | Double Diamond
-
-
-## 🌐 Redes Sociais
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384E1F4?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=557981434561)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francilenepinheiro/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uxui.fran/)  
-[![Behance](https://img.shields.io/badge/Behance-%23191919?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/francilenedesigner)
-
-
-## 📬 Contato
-
-Se quiser bater um papo ou trocar ideias, entre em contato comigo pelo meu WhatsApp: **https://api.whatsapp.com/send?phone=557981434561**
+---
 
 
