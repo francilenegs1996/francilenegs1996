@@ -8,9 +8,9 @@
   Além do UX, aprimorando minhas skills!
 </p>
 
-## 🏆 Sobre mim
+## ✨ Sobre mim
 
-Sou Francilene, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **UX e Front-End**. Crio soluções que unem pesquisa, design e código. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX**.
 
 ## 📊 GitHub Stats
 
