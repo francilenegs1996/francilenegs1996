@@ -38,14 +38,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 ## 🟩 Contribuições
 
 <div align="center">
-
+  
   <img
-    src="https://ghchart.xqsit94.in/dark:default/francilenegs1996"
-    alt="Calendário de contribuições do GitHub"
+    width="96%"
+    src="https://ghchart.rshah.org/40c463/francilenegs1996"
+    alt="GitHub Contributions"
   />
-
-</div>
-
 
 </div>
 
