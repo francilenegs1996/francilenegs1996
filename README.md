@@ -16,16 +16,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 
 <div align="center">
 
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
- alt="GitHub Stats"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francilenegs1996&theme=dracula"
+  alt="GitHub Stats"
 />
 
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&langs_count=8&theme=dracula"
- alt="Top Languages"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francilenegs1996&theme=dracula"
+  alt="Top Languages"
 />
 
 </div>
@@ -34,20 +32,21 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 
 <div align="center">
 
-<img 
- src="https://streak-stats.demolab.com?user=francilenegs1996&theme=dracula"
- alt="GitHub Streak"
+<img
+  src="https://streak-stats.demolab.com?user=francilenegs1996&theme=dracula"
+  alt="GitHub Streak"
 />
 
 </div>
+
 
 ## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img 
- src="https://github-readme-activity-graph.vercel.app/graph?username=francilenegs1996&theme=dracula"
- alt="GitHub Activity Graph"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=francilenegs1996&theme=dracula"
+  alt="GitHub Profile Details"
 />
 
 </div>
