@@ -37,6 +37,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
   alt="GitHub Streak"
 />
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francilenegs1996&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francilenegs1996&layout=compact&theme=dracula)
+
+
 </div>
 
 
