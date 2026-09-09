@@ -1,9 +1,14 @@
-name: Generate Contribution Graph
+name: Generate Contribution Grid
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -13,14 +18,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate contribution grid
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: francilenegs1996
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#FF79C6&color_dots=#282A36,#44475A,#6272A4,#BD93F9,#50FA7B
+            dist/github-contribution-grid.svg?color_snake=transparent&color_dots=#44475A,#1D5C32,#278C4B,#36C96B,#50FA7B
 
-      - name: Push generated SVG
+      - name: Publish contribution grid
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
