@@ -37,15 +37,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 
 ## 🟩 Contribuições
 
-<div align="center">
-  
+<p align="center">
   <img
     width="96%"
-    src="https://ghchart.rshah.org/40c463/francilenegs1996"
+    src="https://ghchart.rshah.org/50FA7B/francilenegs1996"
     alt="GitHub Contributions"
   />
-
-</div>
+</p>
 
 
 ## 💻 Tecnologias e Frameworks
