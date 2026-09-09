@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Francilene Pinheiro  
 
 <p align="center">
-  <b>UX & Conversational Designer | Arquitetura de Fluxos | E as vezes brinco com React.ts</b>
+  <b>UX & Conversational Designer | Arquitetura de Fluxos | E as vezes brinco com Front</b>
 </p>
 
 <p align="center">
