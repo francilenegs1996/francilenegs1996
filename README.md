@@ -40,7 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 <p align="center">
   <img
     width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=francilenegs1996&theme=dracula"
+    src="https://ssr-contributions-svg.vercel.app/_/francilenegs1996?chart=calendar&theme=green"
     alt="GitHub Contributions"
   />
 </p>
