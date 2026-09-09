@@ -27,16 +27,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
   />
 </p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=francilenegs1996&theme=dracula"
-  alt="GitHub Streak"
-/>
+<p align="center">
+  <img
+    width="96%"
+    src="https://streak-stats.demolab.com?user=francilenegs1996&theme=dracula"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## 🟩 Contribuições
 
