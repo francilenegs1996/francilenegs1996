@@ -14,17 +14,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francilenegs1996&theme=dracula"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francilenegs1996&theme=dracula"
-  alt="Top Languages"
-/>
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francilenegs1996&theme=dracula"
+    alt="GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francilenegs1996&theme=dracula"
+    alt="Top Languages"
+  />
+</p>
 
 </div>
 
