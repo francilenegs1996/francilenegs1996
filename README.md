@@ -52,17 +52,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 </div>
 
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=francilenegs1996&theme=dracula"
-  alt="GitHub Profile Details"
-/>
-
-</div>
-
 ## 💻 Tecnologias e Frameworks
 
 Tenho domínio nas seguintes tecnologias e ferramentas:
