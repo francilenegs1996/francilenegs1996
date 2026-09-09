@@ -40,7 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **UX
 <div align="center">
   
   <img
-    width="96%"
+    width="56%"
     src="https://ghchart.rshah.org/40c463/francilenegs1996"
     alt="GitHub Contributions"
   />
